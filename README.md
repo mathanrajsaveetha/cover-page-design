@@ -136,7 +136,8 @@ Step 5: Add images and other contents using CSS record a screenshot of it.
 ```
 
 ## Output:
-Include your output screenshot here
+![Screenshot (47)](https://user-images.githubusercontent.com/119560501/214813488-d01d5865-94ff-4750-8a0e-a0f4090860e0.png)
+
 
 ## Result:
 thus the program is to display book cover page
